@@ -1,16 +1,10 @@
-   <style>
-      #section-nome{
-         background-color:white;
-      }
 
-
-   </style>
 
 
 
 <p align="left"> 
    <section id = section-nome >
-      <h1>Olá, meu nome é Ely Neto!</n2>
+      <h1>Olá, meu nome é <strong>Ely Neto!</strong></n2>
    </section>
    
 </p>
@@ -23,7 +17,7 @@
   Tenho conhecimento sobre Frontend, mas esse não é o meu foco principal.
   <br>
   Linguagens preferidas: C, C++!
-   >Membro funcional do NEWCORP TEAM.
+   > Membro funcional do NEWCORP TEAM.
 </p>
 
  **Linguagens e Frameworks:**
