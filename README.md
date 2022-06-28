@@ -26,7 +26,10 @@
 
   > Membro funcional do NEWCORP TEAM.
 
- <h1>**Linguagens:**</h1>
+ <h1>
+ 
+ **Linguagens:**
+ </h1>
 
  <p><strong>Nível Intermediário.</strong></p>
 
