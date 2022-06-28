@@ -1,5 +1,5 @@
 <p align="left"> 
-  :purple_heart: Olá, seja bem-vindo! Meu nome é <strong>Ely Torres Neto</strong><img src="https://komarev.com/ghpvc/?username=fgalmeida&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
+   Meu nome é <strong>Ely Torres Neto</strong><img src="https://komarev.com/ghpvc/?username=fgalmeida&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
   
 
  > Sobre mim: <br> Tenho <strong> 17 anos </strong> e atualmente, sou estudante do Curso Técnico de Informática pelo Instituto Federal de Educação, Ciência e Tecnologia Sul-riograndense - IFSul (Bagé, RS). Foco em desenvolvimento <strong> backend</strong>! e também em UI Design. <br>
@@ -17,6 +17,8 @@
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+ ![POSTGRESQL12]
+ <rect xmlns="http://www.w3.org/2000/svg" width="33" height="20" fill="#555"/>
  
 
  **Ferramentas de Desenvolvimento:** 
