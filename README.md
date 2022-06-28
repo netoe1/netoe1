@@ -21,13 +21,12 @@
   <br>
 
   Linguagens preferidas: C, C++!
-  
+
   <br>
 
   > Membro funcional do NEWCORP TEAM.
 
-
- **Linguagens:**
+ <h1>**Linguagens:**</h1>
 
  <p><strong>Nível Intermediário.</strong></p>
 
