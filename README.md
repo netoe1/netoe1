@@ -1,23 +1,28 @@
 <p align="left"> 
-   Meu nome é <strong>Ely Torres Neto</strong><img src="https://komarev.com/ghpvc/?username=fgalmeida&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
+   <section>
+    </section>
+</p>
   
 
- > Sobre mim: <br> Tenho <strong> 17 anos </strong> e atualmente, sou estudante do Curso Técnico de Informática pelo Instituto Federal de Educação, Ciência e Tecnologia Sul-riograndense - IFSul (Bagé, RS). Foco em desenvolvimento <strong> backend</strong>! e também em UI Design. <br>
+ > Sobre mim: <br> Tenho <strong> 17 anos </strong> e atualmente, sou estudante do Curso Técnico de Informática pelo Instituto Federal de Educação, Ciência e Tecnologia Sul-riograndense - IFSul (Bagé, RS). Foco em desenvolvimento <strong> backend</strong>!<br>
+   
+
   <br>
   Tenho conhecimento sobre Frontend, mas esse não é o meu foco principal.
   <br>
   Linguagens preferidas, C, C++!
-  
+   <br>By NEWCORP team.  
 </p>
 
  **Linguagens e Frameworks:**
 
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
- ![POSTGRESQL12]
+   <div bgcolor = "blue" height = "5em" width = "5em">
+      <h2>SQL</h2> 
+   </div>
  <rect xmlns="http://www.w3.org/2000/svg" width="33" height="20" fill="#555"/>
  
 
