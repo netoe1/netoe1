@@ -14,7 +14,8 @@
    
 
   <br>
-  Tenho conhecimento sobre Frontend, mas esse não é o principal objetivo.<br>
+  *Tenho conhecimento sobre Frontend, mas esse não é o principal objetivo.*
+  <br>
   <br>
   Linguagens preferidas: C, C++!
   <br>
