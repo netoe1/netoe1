@@ -19,7 +19,9 @@
   
   <br>
   <br>
+
   Linguagens preferidas: C, C++!
+  
   <br>
 
   > Membro funcional do NEWCORP TEAM.
