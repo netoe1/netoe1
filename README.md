@@ -10,7 +10,7 @@
 
   <br>
 
-<font size = "2">**_Tenho conhecimento sobre Frontend, mas esse não é o principal objetivo._**<font>
+<font size = "3">**_Tenho conhecimento sobre Frontend, mas esse não é o principal objetivo._**<font>
 
   <br>
   <br>
