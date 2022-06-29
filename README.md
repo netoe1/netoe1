@@ -19,7 +19,7 @@ Linguagens preferidas: C, C++!
 
   <br>
 
-> Membro funcional do NEWCORP TEAM.
+> Membro funcional do <strong>NEWCORP TEAM.</strong>
 
  <h1>
 
