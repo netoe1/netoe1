@@ -15,9 +15,7 @@ _Tenho conhecimento sobre Frontend, mas esse não é o principal objetivo._
   <br>
   <br>
 
-Linguagens preferidas: C, C++!
-
-> Membro funcional do <strong>NEWCORP TEAM.</strong>
+> Linguagens preferidas: C, C++! e Membro funcional do <strong>NEWCORP TEAM.</strong>
 
 
  <hr>
