@@ -21,7 +21,7 @@
   <br>
   <br>
 
-> Linguagens preferidas: C, C++! e Membro Funcional do <strong>NEWCORP TEAM.</strong><br><br>
+> Linguagens preferidas: C, C++! e Membro Funcional do <strong>NEWCORP TEAM.</strong><br>
 
 
  <hr>
