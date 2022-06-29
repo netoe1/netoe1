@@ -1,6 +1,7 @@
 <p align="left"> 
    <section id = section-nome >
-      <h1>Olá, meu nome é <strong>Ely Neto!</strong><br>Seja bem vindo!</n2>
+      <h1>Olá, meu nome é <strong>Ely Neto!</strong></h1><br>
+      <p>Seja bem vindo!</p>
    </section>
    
 </p>
