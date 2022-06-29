@@ -10,7 +10,7 @@
 
   <br>
 
-_Tenho conhecimento sobre Frontend, mas esse não é o principal objetivo._
+**_Tenho conhecimento sobre Frontend, mas esse não é o principal objetivo._**
 
   <br>
   <br>
