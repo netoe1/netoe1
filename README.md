@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/21012982?v=4" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/93855901?v=4" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Ely Torres Neto</h1>
 <p align="center">
-  🎓 Estudante de Engenharia da Computação | 💼 Técnico em Informática <br>
+  🎓 Graduando em Engenharia da Computação | 💼 Técnico em Informática <br>
   🔧 Foco em Suporte Técnico, Automação, Pesquisa Acadêmica e Projetos Open-Source <br>
   📍 Bagé, RS – Brasil
 </p>
@@ -13,9 +13,9 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Engenharia da Computação na UNIPAMPA** e **Técnico em Informática pelo IFSul**. Atualmente atuo na **pseudoempresa NEWCORP**, com foco em suporte técnico, manutenção de sistemas, pesquisas acadêmicas e automações via script. Também proponho projetos **open-source** colaborativos.
+Sou **graduando em Engenharia da Computação pela Universidade Federal do Pampa (UNIPAMPA), campus Bagé**, e **Técnico em Informática formado pelo IFSul – Câmpus Bagé**. Atualmente, atuo na **pseudoempresa NEWCORP**, com foco em suporte técnico, manutenção de sistemas, pesquisas acadêmicas e automações via script.
 
-Tenho grande interesse por linguagens de baixo nível, infraestrutura e soluções práticas para problemas reais.
+Tenho grande interesse por linguagens de baixo nível, infraestrutura e soluções práticas para problemas reais, além de manter projetos open-source e acadêmicos no GitHub.
 
 ---
 
@@ -30,6 +30,7 @@ Tenho grande interesse por linguagens de baixo nível, infraestrutura e soluçõ
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 ### ⚙️ Outras Habilidades
