@@ -1,53 +1,43 @@
-<p align="left"> 
-   <section id = section-nome >
-      <h1>Olá, meu nome é <strong>Ely Neto!</strong></h1><br>
-      <p><strong><font size ="2">Seja bem vindo!</font></strong></p>
-   </section>
-   
-</p>
+# 👋 Olá! Eu sou Ely Torres Neto (netoe1)
 
+Sou estudante de **Engenharia da Computação na UNIPAMPA** e Técnico em Informática formado pelo IFSul. Trabalho atualmente na área de TI da **NEWCORP** (pseudoempresa), em Bagé/RS, com foco em suporte técnico, manutenção de sistemas/ pesquisas acadêmicas e automações via-script. Também, proponho alguns projetos open-source!
 
-> Sobre mim: <br> Tenho <strong> 17 anos </strong> e atualmente, sou estudante do Curso Técnico de Informática pelo Instituto Federal de Educação, Ciência e Tecnologia Sul-riograndense - IFSul (Bagé, RS). Foco em desenvolvimento <strong> backend</strong>!<br>
+Tenho interesse especial por linguagens de baixo nível, infraestrutura e ferramentas práticas que resolvem problemas reais.
 
-  <br>
+---
 
-<font size = "3"> 
+## 💻 Tecnologias com que já trabalhei
 
+### 🧠 Linguagens de Programação
+- **C / C++** – aplicações de baixo nível, estruturas de dados, algoritmos
+- **C#** – aplicações desktop e manutenção de sistemas Windows
+- **Python** – scripts de automação, raspagem de dados, análise simples
+- **JavaScript/Typescript(Node.js)** – uso básico e integração com ferramentas web
+- **SQL** – queries, relatórios e manipulação de dados em bancos relacionais
+  
+### ⚙️ Outras habilidades
+- **Git** – versionamento de código e colaboração
+- **Manutenção de computadores** – hardware, drivers, sistemas operacionais
+- **CLI** – ferramentas de linha de comando
+- **Scrum** - Entusiasta e estudante da Metodologia Ágil SCRUM.
 
-**_Tenho conhecimento sobre Frontend, mas esse não é o principal objetivo._**
+---
 
-<font>
+## 🔍 Repositórios de Interesse
 
-  <br>
-  <br>
+- [**fbsdk-lite**]https://github.com/netoe1/fbsdk-lite - Implementação de uma abstração para a API do Facebook.
+- [**sistemas-educacionais**](https://github.com/netoe1) – Projetos acadêmicos e scripts para estudo.
+- [**projetos diversos privados/open-source**](https://github.com/netoe1?tab=repositories) – scripts, testes e experimentações
 
-> Linguagens preferidas: C, C++! e Membro funcional do <strong>NEWCORP TEAM.</strong><br>
+---
 
+## 📬 Contato
 
- <hr>
+- GitHub: [@netoe1](https://github.com/netoe1)
+- Instagram: [@netoe_](https://instagram.com/netoe_)
+- E-mail: elynetobr@gmail.com
 
- <h1>
+---
 
-**Linguagens:**
+> _Sempre aprendendo, sempre construindo._
 
- </h1>
-
- <p><strong>Nível Intermediário.</strong></p>
-
-<p>
-   
-   >![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-   
-   >![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-   
-   <p><strong>Nível Intermediário/Avançado</strong></p>
-   
-   >![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   >![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
-
-</p>
-
-**Ferramentas de Desenvolvimento:**
-
->![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
