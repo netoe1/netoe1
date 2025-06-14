@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/21012982?v=4" width="150" height="150" style="border-radius: 50%;" />
+  <img src="[https://avatars.githubusercontent.com/u/21012982?v=4](https://avatars.githubusercontent.com/u/93855901?v=4)" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Ely Torres Neto</h1>
