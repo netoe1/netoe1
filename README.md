@@ -63,4 +63,4 @@ Tenho grande interesse por linguagens de baixo nível, infraestrutura e soluçõ
 
 ---
 
-> _"Inteligência não é possuir todas as respostas, mas manter viva a sede de perguntar. É, como disse Sócrates, saber que nada se sabe — e, ainda assim, jamais deixar de buscar."_ 🚀
+> _"Inteligência não é possuir todas as respostas, mas manter viva a sede de perguntar. É, como disse Sócrates, saber que nada se sabe e, ainda assim, jamais deixar de buscar."_ 🚀
