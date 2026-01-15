@@ -13,7 +13,7 @@
 
 ## 🧠 Sobre mim
 
-Sou **graduando em Engenharia da Computação pela Universidade Federal do Pampa (UNIPAMPA), campus Bagé**, e **Técnico em Informática formado pelo IFSul – Câmpus Bagé**. Atualmente, atuo na **pseudoempresa NEWCORP**, com foco em suporte técnico, manutenção de sistemas, pesquisas acadêmicas e automações via script.
+Sou **graduando em Engenharia da Computação pela Universidade Federal do Pampa (UNIPAMPA), campus Bagé**, e **Técnico em Informática formado pelo IFSul – Câmpus Bagé**. Atualmente, atuo na **pseudoempresa Vertex Project**, com foco em suporte técnico, manutenção de sistemas, pesquisas acadêmicas e automações via script.
 
 Tenho grande interesse por linguagens de baixo nível, infraestrutura e soluções práticas para problemas reais, além de manter projetos open-source e acadêmicos no GitHub.
 
