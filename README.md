@@ -19,9 +19,9 @@ Tenho grande interesse por linguagens de baixo nível, infraestrutura e soluçõ
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-### 🔤 Linguagens de Programação
+### Linguagens de Programação
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -43,7 +43,7 @@ Tenho grande interesse por linguagens de baixo nível, infraestrutura e soluçõ
 
 ---
 
-## 📂 Repositórios de Interesse
+## Repositórios de Interesse
 
 - [**fbsdk-lite**](https://github.com/netoe1/fbsdk-lite) – Abstração da API do Facebook (open-source)
 - [**pkgmanager-python3**](https://github.com/netoe1/pkgmanager-python3) – Gerenciador de pacotes para Linux (open-source)
