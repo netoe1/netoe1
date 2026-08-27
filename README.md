@@ -76,7 +76,6 @@ O projeto nasceu da ideia de que conhecimento deve ser compartilhado e que apren
 * [**PDI-assembler**](https://github.com/netoe1/PDI-assembler) – Montador desenvolvido em C para uma arquitetura de processadores de 16 bits criada em um Projeto de Ensino da UNIPAMPA.
 * [**PI2-MINI-MIPS-Simulator-8-bits**](https://github.com/netoe1/PI2-MINI-MIPS-Simulator-8-bits) – Simulador de uma arquitetura inspirada em MIPS, desenvolvido em C no contexto acadêmico.
 * [**headify**](https://github.com/netoe1/headify) – Ferramenta CLI desenvolvida em C para geração automatizada de arquivos de cabeçalho a partir de arquivos `.c`, utilizando parsing e uma sintaxe própria.
-* [**cbits**](https://github.com/netoe1/cbits) – Biblioteca em C para abstração de operações bit a bit e modelagem de portas lógicas.
 * [**clocktime.h**](https://github.com/netoe1/clocktime.h) – Biblioteca em C que fornece uma abstração de alto nível para operações relacionadas a `time.h`.
 * [**simple-make**](https://github.com/netoe1/simple-make) – Ferramenta que interpreta arquivos `Makefile` e gera scripts `.bat`, facilitando a integração entre ambientes Unix e Windows.
 * [**pkgmanager-python3**](https://github.com/netoe1/pkgmanager-python3) – Abstração em Python para operações com diferentes gerenciadores de pacotes em sistemas Linux.
@@ -85,8 +84,7 @@ O projeto nasceu da ideia de que conhecimento deve ser compartilhado e que apren
 
 * [**mx002_linux_driver-settings**](https://github.com/netoe1/mx002_linux_driver-settings) – Fork e desenvolvimento relacionado a driver Linux em Rust para mesa digitalizadora.
 * [**fbsdk-lite**](https://github.com/netoe1/fbsdk-lite) – Abstração da API do Facebook.
-* [**cbit**](https://github.com/netoe1/cbits) – Biblioteca voltada à manipulação e abstração de operações binárias em C.
-
+* [**cbits**](https://github.com/netoe1/cbits) – Biblioteca em C para abstração de operações bit a bit e modelagem de portas lógicas.
 ### Projetos Acadêmicos e Educacionais
 
 * [**ludus-monitor**](https://github.com/netoe1/ludus-monitor) – Módulo de um framework educacional desenvolvido em parceria entre IFSul e UFPel.
