@@ -9,7 +9,7 @@
 
 Graduando em Engenharia da Computação | Técnico em Informática <br>
 Planejamento Estratégico no Sicredi Liberdade | Vertex Project <br>
-Automação, Pesquisa Acadêmica e Open-Source <br>
+Sistemas, Automação, Pesquisa Acadêmica e Open-Source <br>
 Bagé, RS – Brasil
 
 </p>
@@ -24,7 +24,7 @@ Atualmente, atuo no **setor de Planejamento Estratégico da Cooperativa Sicredi 
 
 O Vertex Project busca compartilhar conteúdos, pesquisas, ferramentas e experiências práticas, incentivando o aprendizado e o desenvolvimento tecnológico.
 
-Tenho grande interesse por **linguagens de baixo nível, infraestrutura, automação, desenvolvimento de software, pesquisa acadêmica e soluções práticas para problemas reais**, além de manter projetos open-source e acadêmicos no GitHub.
+Tenho grande interesse por **programação de sistemas, linguagens de baixo nível, arquitetura de computadores, infraestrutura, automação, desenvolvimento de software e pesquisa acadêmica**. Também mantenho projetos open-source e educacionais no GitHub.
 
 Acredito que tecnologia não deve apenas reproduzir aquilo que já existe, mas também servir como ferramenta para **questionar, experimentar, criar e transformar**.
 
@@ -41,8 +41,8 @@ Acredito que tecnologia não deve apenas reproduzir aquilo que já existe, mas t
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 </div>
 
 ### Outras Habilidades
@@ -51,6 +51,7 @@ Acredito que tecnologia não deve apenas reproduzir aquilo que já existe, mas t
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 </div>
 
@@ -68,19 +69,36 @@ O projeto nasceu da ideia de que conhecimento deve ser compartilhado e que apren
 
 ---
 
-## Repositórios de Interesse
+## Projetos em Destaque
 
-* [**fbsdk-lite**](https://github.com/netoe1/fbsdk-lite) – Abstração da API do Facebook (open-source)
-* [**pkgmanager-python3**](https://github.com/netoe1/pkgmanager-python3) – Gerenciador de pacotes para Linux (open-source)
-* [**mx002_linux_driver-settings**](https://github.com/netoe1/mx002_linux_driver-settings) – Fork de driver para mesa digitalizadora em Rust (open-source)
-* [**clocktime.h**](https://github.com/netoe1/clocktime.h) – Abstração de alto nível para operações com `time.h` (open-source)
-* [**cbits.h**](https://github.com/netoe1/cbits) – Abstração de alto nível para operações bit a bit e modelagem de portas lógicas em C (open-source)
-* [**PDI Assembler**](https://github.com/netoe1/PDI-assembler) – Criação de um montador para uma arquitetura de processadores desenvolvida em Projeto de Ensino na UNIPAMPA
-* [**ludus-monitor**](https://github.com/netoe1/ludus-monitor) – Módulo para framework educacional em parceria entre IFSul e UFPel
-* [**Números Amigos**](https://github.com/netoe1/numerosAmigos) – Jogo educativo para crianças com foco no reconhecimento de numerais
-* [**ArrasTEA** (Windows)](https://github.com/netoe1/arrastea-src-windows) | [Android](https://github.com/netoe1/arrastea-src-android) – Jogo psicomotor desenvolvido em Projeto de Pesquisa e Extensão no IFSul Câmpus Bagé / UFPel
-* [**sistemas-educacionais**](https://github.com/netoe1) – Projetos e scripts acadêmicos
-* [**Outros projetos**](https://github.com/netoe1?tab=repositories) – Testes, ferramentas e projetos open-source
+### Sistemas e Baixo Nível
+
+* [**PDI-assembler**](https://github.com/netoe1/PDI-assembler) – Montador desenvolvido em C para uma arquitetura de processadores de 16 bits criada em um Projeto de Ensino da UNIPAMPA.
+* [**PI2-MINI-MIPS-Simulator-8-bits**](https://github.com/netoe1/PI2-MINI-MIPS-Simulator-8-bits) – Simulador de uma arquitetura inspirada em MIPS, desenvolvido em C no contexto acadêmico.
+* [**headify**](https://github.com/netoe1/headify) – Ferramenta CLI desenvolvida em C para geração automatizada de arquivos de cabeçalho a partir de arquivos `.c`, utilizando parsing e uma sintaxe própria.
+* [**cbits**](https://github.com/netoe1/cbits) – Biblioteca em C para abstração de operações bit a bit e modelagem de portas lógicas.
+* [**clocktime.h**](https://github.com/netoe1/clocktime.h) – Biblioteca em C que fornece uma abstração de alto nível para operações relacionadas a `time.h`.
+* [**simple-make**](https://github.com/netoe1/simple-make) – Ferramenta que interpreta arquivos `Makefile` e gera scripts `.bat`, facilitando a integração entre ambientes Unix e Windows.
+* [**pkgmanager-python3**](https://github.com/netoe1/pkgmanager-python3) – Abstração em Python para operações com diferentes gerenciadores de pacotes em sistemas Linux.
+
+### Linux, Hardware e Open Source
+
+* [**mx002_linux_driver-settings**](https://github.com/netoe1/mx002_linux_driver-settings) – Fork e desenvolvimento relacionado a driver Linux em Rust para mesa digitalizadora.
+* [**fbsdk-lite**](https://github.com/netoe1/fbsdk-lite) – Abstração da API do Facebook.
+* [**cbit**](https://github.com/netoe1/cbits) – Biblioteca voltada à manipulação e abstração de operações binárias em C.
+
+### Projetos Acadêmicos e Educacionais
+
+* [**ludus-monitor**](https://github.com/netoe1/ludus-monitor) – Módulo de um framework educacional desenvolvido em parceria entre IFSul e UFPel.
+* [**Números Amigos**](https://github.com/netoe1/numerosAmigos) – Jogo educativo voltado ao aprendizado e reconhecimento de numerais.
+* [**ArrasTEA – Windows**](https://github.com/netoe1/arrastea-src-windows) | [**Android**](https://github.com/netoe1/arrastea-src-android) – Jogo psicomotor desenvolvido em um projeto de pesquisa e extensão no IFSul Câmpus Bagé / UFPel.
+
+---
+
+## Outros Repositórios
+
+* [**sistemas-educacionais**](https://github.com/netoe1) – Projetos e experimentos relacionados à educação e computação.
+* [**Outros projetos**](https://github.com/netoe1?tab=repositories) – Ferramentas, experimentos, estudos e projetos open-source.
 
 ---
 
